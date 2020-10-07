@@ -1,16 +1,19 @@
-### Hi there 👋
+Hello! I'm José Alejandro. - aka Pepe
+I'm an Automation Engineer. In love with electronics and coding!
+🎓 I’m currently finishing a Master Degree on Internet of Things: Applied Technologies at UC3M
+🌱 Currently learning everything related to Artificial Intelligence, Raspberry Pi 3 and Energy Poverty. 
+👯 Looking to collaborate with others.
+⚡ Fun fact: Love to play FIFA21
 
-<!--
-**100416005/100416005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages and Tools:
+PythonTensorflowKerasSklearJupyterC++NumpyArduinoRaspberryGitHubGitMatlabQtCreatorVisualStudioCode
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About
+No description, website, or topics provided.
+Resources
+ Readme
+Releases
+No releases published
+Packages
+No packages published
